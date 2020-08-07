@@ -1,0 +1,24 @@
+{
+  "name": "bpdts-test-exercise",
+  "version": "1.0.0",
+  "description": "Api Tests",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vshadwal/bpdts-test-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vshadwal/bpdts-test-exercise/issues"
+  },
+  "homepage": "https://github.com/vshadwal/bpdts-test-exercise#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "mocha": "^8.1.1"
+  }
+}
